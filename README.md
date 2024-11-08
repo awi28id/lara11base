@@ -13,13 +13,19 @@
 - Install npm
 - npm run build
 - Migrate
+- Seeder
 
-<!--
+## Login
+```
+** Admin **
+admin@gmail.com
+password
 
-# (H1)
-## (H2)
-### (H3)
+** Agent **
+agent@gmail.com
+password
 
-** Bold **
-
--->
+** User **
+user@gmail.com
+password
+```
