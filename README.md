@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://images.unsplash.com/photo-1657880115878-8e9a0d08335f?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400" alt=""></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://www.2basetechnologies.com/wp-content/uploads/2024/05/Laravel-Blog-Banner-scaled-1.jpg" width="100%" alt=""></a></p>
 
 ## About Lara11Base
 - Laravel 11 -base-
