@@ -20,15 +20,23 @@
 
 ## Login
 ```
-** Admin **
+- Owner -
+owner@gmail.com
+password
+
+- Super Admin -
+superadmin@gmail.com
+password
+
+- Admin -
 admin@gmail.com
 password
 
-** Agent **
+- Agent -
 agent@gmail.com
 password
 
-** User **
+- User -
 user@gmail.com
 password
 ```
